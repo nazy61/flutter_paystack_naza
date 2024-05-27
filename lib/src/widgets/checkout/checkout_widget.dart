@@ -1,19 +1,19 @@
 import 'package:flutter/material.dart' hide ErrorWidget;
-import 'package:flutter_paystack/src/api/service/contracts/banks_service_contract.dart';
-import 'package:flutter_paystack/src/api/service/contracts/cards_service_contract.dart';
-import 'package:flutter_paystack/src/common/paystack.dart';
-import 'package:flutter_paystack/src/common/utils.dart';
-import 'package:flutter_paystack/src/models/card.dart';
-import 'package:flutter_paystack/src/models/charge.dart';
-import 'package:flutter_paystack/src/models/checkout_response.dart';
-import 'package:flutter_paystack/src/widgets/base_widget.dart';
-import 'package:flutter_paystack/src/widgets/checkout/bank_checkout.dart';
-import 'package:flutter_paystack/src/widgets/checkout/card_checkout.dart';
-import 'package:flutter_paystack/src/widgets/checkout/checkout_method.dart';
-import 'package:flutter_paystack/src/widgets/common/extensions.dart';
-import 'package:flutter_paystack/src/widgets/custom_dialog.dart';
-import 'package:flutter_paystack/src/widgets/error_widget.dart';
-import 'package:flutter_paystack/src/widgets/sucessful_widget.dart';
+import 'package:flutter_paystack_naza/src/api/service/contracts/banks_service_contract.dart';
+import 'package:flutter_paystack_naza/src/api/service/contracts/cards_service_contract.dart';
+import 'package:flutter_paystack_naza/src/common/paystack.dart';
+import 'package:flutter_paystack_naza/src/common/utils.dart';
+import 'package:flutter_paystack_naza/src/models/card.dart';
+import 'package:flutter_paystack_naza/src/models/charge.dart';
+import 'package:flutter_paystack_naza/src/models/checkout_response.dart';
+import 'package:flutter_paystack_naza/src/widgets/base_widget.dart';
+import 'package:flutter_paystack_naza/src/widgets/checkout/bank_checkout.dart';
+import 'package:flutter_paystack_naza/src/widgets/checkout/card_checkout.dart';
+import 'package:flutter_paystack_naza/src/widgets/checkout/checkout_method.dart';
+import 'package:flutter_paystack_naza/src/widgets/common/extensions.dart';
+import 'package:flutter_paystack_naza/src/widgets/custom_dialog.dart';
+import 'package:flutter_paystack_naza/src/widgets/error_widget.dart';
+import 'package:flutter_paystack_naza/src/widgets/sucessful_widget.dart';
 
 const kFullTabHeight = 74.0;
 

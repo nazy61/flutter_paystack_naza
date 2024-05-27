@@ -1,4 +1,4 @@
-import 'package:flutter_paystack/flutter_paystack.dart';
+import 'package:flutter_paystack_naza/flutter_paystack_naza.dart';
 
 abstract class BaseRequestBody {
   final fieldDevice = 'device';

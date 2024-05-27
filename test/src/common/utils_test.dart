@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_paystack/src/common/my_strings.dart';
-import 'package:flutter_paystack/src/common/utils.dart';
+import 'package:flutter_paystack_naza/src/common/my_strings.dart';
+import 'package:flutter_paystack_naza/src/common/utils.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
