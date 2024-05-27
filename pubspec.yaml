@@ -1,6 +1,6 @@
 name: flutter_paystack_naza
 description: A Flutter plugin for making payments via Paystack Payment Gateway. Completely supports Android and iOS.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/nazy61/flutter_paystack
 
 dependencies:
